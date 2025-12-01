@@ -1,3 +1,14 @@
+
+## ⚠️ Copyright and License
+
+**© 2025 SANDOVAL REYES LUIS ARMANDO. All Rights Reserved.**
+
+This code is proprietary and was developed for **portfolio demonstration purposes only**.
+
+* **Restrictions:** You may **NOT** use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this software. You may not use this code for educational purposes or derivative works.
+
+**Unauthorized use or reproduction of this code is strictly prohibited.**
+
 # BizVision
 
 > **Author:** SANDOVAL REYES LUIS ARMANDO  
